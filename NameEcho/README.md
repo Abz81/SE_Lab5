@@ -16,5 +16,15 @@
 کد این تابع را به‌صورت زیر تغییر می‌دهیم تا مشکل برطرف شود.
 ![image](https://github.com/Abz81/SE_Lab5/assets/45371919/b16e01b1-7f29-412d-a22a-2ad2cfea88a7)
 
+نمودارهای مربوط به مصرف منابع برنامه‌ی اصلاح شده را در زیر مشاهده می‌کنیم.
+
+![image](https://github.com/Abz81/SE_Lab5/assets/45371919/31992a01-0264-4a41-84af-82e43963495e)
+
+![image](https://github.com/Abz81/SE_Lab5/assets/45371919/ceb09373-0cad-4952-a89a-55959f0ca961)
+
+![image](https://github.com/Abz81/SE_Lab5/assets/45371919/511b69d6-a582-4974-8575-b7cc57ef67e0)
+
+![image](https://github.com/Abz81/SE_Lab5/assets/45371919/f5e23295-95dd-41b9-8499-07a496842594)
+
 
 </div>
