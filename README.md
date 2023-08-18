@@ -40,4 +40,14 @@
 m  بار کپی میکند.
 
 
+مثال:
+![p](https://github.com/Abz81/SE_Lab5/assets/101315890/4c164751-9284-488d-9def-11c05833dc7a)
+
+        ابتدا برای این کار از قطعه کد زیر استفاده کردیم که داده ها را به صورت ارایه دوبعدی ذخیره و سپس چاپ به صورت ارایه ای چاپ کردیم.
+        
+![sc7](https://github.com/Abz81/SE_Lab5/assets/101315890/cdf0130b-10a1-42f9-aa9b-df5ec44da423)
+
+عملیات profiling را با استفاده از نرم افزار Yourkit بر روی ان انجام میدهیم:
+![Screenshot (15)](https://github.com/Abz81/SE_Lab5/assets/101315890/442d5d84-a60d-4ebd-8bd3-7ed006929e13)
+
 
