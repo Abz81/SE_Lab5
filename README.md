@@ -9,4 +9,5 @@
 ## تمرین
 1.ابتدا profilling را بر روی کلاس javaCup اجرا میکنیم:
 
-![Screenshot (6)](https://github.com/Abz81/SE_Lab5/assets/101315890/8f3e48e8-ef83-4c21-b352-c2964ed2cfee)
+
+![Screenshot (9)](https://github.com/Abz81/SE_Lab5/assets/101315890/9413d913-f96e-46fc-83a5-8f6f6d67c87e)
