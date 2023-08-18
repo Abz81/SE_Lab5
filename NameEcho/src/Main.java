@@ -18,10 +18,10 @@ public class Main {
     }
 
     public static void echoNameJoyfully(String name) {
-        String result = "";
+        StringBuilder resultBuilder = new StringBuilder();
         for (int i = 0; i < 200000; i++) {
-            result += " " + name;
+            resultBuilder.append(" ").append(name);
         }
-        System.out.println(result);
+        System.out.println(resultBuilder);
     }
 }
